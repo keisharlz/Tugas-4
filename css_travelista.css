@@ -95,7 +95,7 @@ nav ul li a{
 		left: 0;
 	}
 section {
-  background: url(/Latihan/Images/logo.jpeg);
+  background: url(logo.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
@@ -106,7 +106,7 @@ section {
 	padding-bottom: 20px;
 }
 .banner{
-	background: url(/Latihan/Images/banner.jpeg) no-repeat;
+	background: url(Images/banner.jpeg) no-repeat;
   background-size: cover;
   height: calc(80vh - 60px);
 }
